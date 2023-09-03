@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @shubhashishrawat
-- 👀 I’m interested in learn something new.
-- 🌱 I’m currently learning python and java.
-- 💞️ I’m looking to collaborate on internship..
-- 📫 How to reach me via mail or message..
+- 👋 Hi, I’m @Shubhashishrawat
+- 👀 I’m interested in learn something new Technologies  and working on the Tools .
+- 🌱 I’m currently learning python and SQL , ML and AI.
+- 💞️ Working in Tata Consultancy services
+- 📫 You can reach out to me via mail :- shubhashish.prof@gmail.com
 
-<!---
-shubhashishrawat/shubhashishrawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
